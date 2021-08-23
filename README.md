@@ -5,3 +5,4 @@ Used mongoDB and mongoose to handle the database.
 Used redis for effective caching.
 Created the database schema in data.js
 Used vitalets google translate api for translation requests.
+Used ESlint for linting.
