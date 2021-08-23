@@ -1,0 +1,24 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7",
+    "nodemon": "^2.0.12",
+    "redis": "^3.1.2",
+    "response-time": "^2.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
